@@ -40,7 +40,7 @@ Depending on your use case, immudb might function as your application's primary 
 
 ## Key value and SQL
 
-immudb can be used as a tamper-proof key value store or SQL database, with audit history capabilities. Within single immudb instance a user can have multiple databases of both types, it is even possible to have KV and SQL withing single database.
+immudb can be used as a tamper-proof key value store or SQL database, with audit history capabilities. Within single immudb instance a user can have multiple databases of both types, it is even possible to have KV and SQL within single database.
 
 Key value is a foundation layer for SQL, meaning that SQL is using key value store capabilities underneath.
 
