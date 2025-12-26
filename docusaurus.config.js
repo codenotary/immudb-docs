@@ -116,10 +116,6 @@ const config = {
               <a href="https://github.com/codenotary/immudb" target="_blank">
               <img src="/img/social/github.svg" alt="immudb Github" width="32" height="32" />
               </a>
-
-              <a href="https://discord.com/invite/EWeCbkjZVu" target="_blank">
-              <img src="/img/social/discord.svg" alt="immudb Discord" width="32" height="32" />
-              </a>
               </div>
             `
             },
